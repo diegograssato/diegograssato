@@ -1,11 +1,11 @@
-### :sound: Sejam bem vindos a mais um vídeo aqui no canal... Ops, lugar errado. 
+### :sound:  Opa, meu nome é Diego Grassato...
 
-Opa, meu nome é Diego Grassato...
 - :rocket: Atualmente trabalho como Developer Master/System Architect na @CI&T
 
 
 - :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
