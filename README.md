@@ -1,9 +1,12 @@
-### :sound:  Opa, meu nome é Diego Grassato...
-
-- :rocket: Atualmente trabalho como Developer Master/System Architect na @CI&T
+### :sound:  My name is Diego Pereira Grassato... aka Grassato
 
 
-- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação.
+- 🔭 I’m currently working with Developer Master/System Architect on @CI&T
+- 🌱 I’m currently learning Golang and Cloud Native Architecture
+- 💬 Ask me about Cloud, DevOps, Linux, DevOps, Docker, Kubernetes and ... Microservices! 
+- 📫 How to reach me: diego.grassato@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Husband, Father and Pai de Pet(birds, fishes and dog)
 
 <!--
 Here are some ideas to get you started:
