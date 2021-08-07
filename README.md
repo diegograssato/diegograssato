@@ -15,7 +15,7 @@
 - ⚡ Fun fact: Husband, Father and Pai de Pet(birds, fishes and dog)
 
 <p align="center">
-  <a href="https://github.com/badtuxx?tab=followers">
+  <a href="https://github.com/diegograssato?tab=followers">
     <img src="https://img.shields.io/github/followers/diegograssato?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a> 
 </p>
