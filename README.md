@@ -6,6 +6,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diegoanna)](https://twitter.com/diegoanna)
 
 
+<p align="center">
+  <a href="https://github.com/badtuxx?tab=followers">
+    <img src="https://img.shields.io/github/followers/diegograssato?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a> 
+</p>
 - 🔭 I’m currently working with Developer Master/System Architect on @CI&T
 - 🌱 I’m currently learning Golang and Cloud Native Architecture
 - 💬 Ask me about Cloud, DevOps, Linux, DevOps, Docker, Kubernetes and ... Microservices! 
