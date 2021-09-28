@@ -21,12 +21,6 @@
 </p>
 
  
-<div align="center">
-  <a href="https://github.com/diegograssato?tab=followers">
-    <img src="https://img.shields.io/github/followers/diegograssato?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a> 
-  
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="DTuX-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DTuX-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -55,7 +49,7 @@
 </div>
  
  
-<--
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
