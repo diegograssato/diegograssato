@@ -10,7 +10,7 @@
 - 🔭 I’m currently working with Mgr Enterprise Technology Architecture on @avanade
 - 🌱 I’m currently learning Golang and Cloud Native Architecture
 - 💬 Ask me about Cloud, DevOps, Linux, DevOps, Docker, Kubernetes and ... Microservices! 
-- 📫 How to reach me: diego.grassato@gmail.com
+- 📫 How to reach me: diego.grassato@gmail.com or d.pereira.grassato@avanade.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Husband, Father and Pet(birds, fishes and dog)
  
