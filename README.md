@@ -43,9 +43,14 @@
  	<a href="https://www.twitch.tv/Grassato_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
   <a href = "mailto:diego.grassato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diegograssato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/diegograssato-software" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
+  <h3>Visitors Count:</h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{diegograssato}/count.svg" /></p> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b3100&height=120&section=footer"/>
  
 </div>
  
